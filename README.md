@@ -1,6 +1,6 @@
 # Resting-State EEG Spectral Power and Anxiety
 
-This independent project explores relationships between resting-state EEG spectral power and trait anxiety (STAI) and behavioral inhibition (BIS) scores using Python and MNE-Python.
+This project explores relationships between resting-state EEG spectral power and trait anxiety (STAI) and behavioral inhibition (BIS) scores using Python and MNE-Python.
 
 ## Methods
 
